@@ -22,7 +22,7 @@ repository               : "chunchewen/chunchewen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chunche.png"
+  avatar           : "chunche.jpg"
   name             : "Chun-Che Wen"
   bio              : "Postdoctoral fellowship at the Dartmouth Institute for Health Policy and Clinical Practice"
   location         : "Lebanon, New Hampshire"

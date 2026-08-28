@@ -20,7 +20,7 @@ I am a **Postdoctoral Fellow** at [The Dartmouth Institute for Health Policy & C
 
 - **Education:**
   
-  Ph.D. in Biostatistics, Medical University of South Carolina (supervisor: [Brian Neelon](https://education.musc.edu/MUSCApps/facultydirectory/Neelon-Brian))<br>
-  M.S. in Statistics, Florida State University<br>
-  B.S. in Applied Mathematics, National Chung Hsing University<br>
+  Ph.D. in Biostatistics, [Medical University of South Carolina](https://medicine.musc.edu/departments/public-health-sciences) (supervisor: [Brian Neelon](https://education.musc.edu/MUSCApps/facultydirectory/Neelon-Brian))<br>
+  M.S. in Statistics, [Florida State University](https://stat.fsu.edu/)<br>
+  B.S. in Applied Mathematics, [National Chung Hsing University](https://www.amath.nchu.edu.tw/en/index.php)<br>
 

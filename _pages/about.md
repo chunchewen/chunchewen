@@ -15,7 +15,7 @@ I am a **Postdoctoral Fellow** at [The Dartmouth Institute for Health Policy & C
 
 - **Professional appointments:**
   
-  Postdoctoral Research Associate, Geisel School of Medicine at Dartmouth College (October 2024–Present)  
+  Postdoctoral Research Fellow, Geisel School of Medicine at Dartmouth College (October 2024–Present)  
   Research Assistant, Medical University of South Carolina (2019–2024, supervisor: [James O'Malley](https://geiselmed.dartmouth.edu/tdi/profile/james-omalley-phd/))
 
 - **Education:**

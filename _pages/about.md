@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Researcher** at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/).
+I am a **Postdoctoral Fellow** at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/).
 
 **Email:** [chun-che.wen@dartmouth.edu](mailto:chun-che.wen@dartmouth.edu) | **Location:** Lebanon, New Hampshire
 

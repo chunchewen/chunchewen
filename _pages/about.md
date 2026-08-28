@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 
-My name is Chun-Che Wen (pronounced: Jin-za Wen). I am currently a **Postdoctoral Fellow** in Biostatistics at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/).
+My name is Chun-Che Wen (pronounced: Jin-za Wen). I am currently a **Postdoctoral Fellow** in Biostatistics at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/). My current research interests include (i) **Bayesian hierarchical modeling**, (ii) **spatial and spatiotemporal statistics**, (iii) **network analysis and community detection**, and (iv) **statistical methods for health services research**. Outside of research, I am a huge sports fan, especially of the Atlanta Braves (MLB), San Antonio Spurs (NBA), and Uni-Lions (CPBL). I try to leave statistics at work when watching them—although I occasionally blame a losing streak on small-sample variability.
 
-**Email:** [chun-che.wen@dartmouth.edu](mailto:chun-che.wen@dartmouth.edu) 
-
-- My current research interests include (i) **Bayesian hierarchical modeling**, (ii) **spatial and spatiotemporal statistics**, (iii) **network analysis and community detection**, and (iv) **statistical methods for health services research**.
+**Email:** [chun-che.wen@dartmouth.edu](mailto:chun-che.wen@dartmouth.edu) && [ccwen@gmail.com] (mailto:ccwen18@gamil.com)  
 
 - **Professional appointments:**
   

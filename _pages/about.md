@@ -9,7 +9,7 @@ redirect_from:
 
 I am a **Postdoctoral Fellow** at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/).
 
-**Email:** [chun-che.wen@dartmouth.edu](mailto:chun-che.wen@dartmouth.edu) | **Location:** Lebanon, New Hampshire
+**Email:** [chun-che.wen@dartmouth.edu](mailto:chun-che.wen@dartmouth.edu) 
 
 - My current research interests include (i) **Bayesian hierarchical modeling**, (ii) **spatial and spatiotemporal statistics**, (iii) **network analysis and community detection**, and (iv) **statistical methods for health services research**.
 

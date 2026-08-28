@@ -14,9 +14,9 @@ My name is Chun-Che Wen (pronounced: Jin-za Wen). I am currently a **Postdoctora
 
 - **Professional appointments:**
   
-  Postdoctoral Research Fellow, Geisel School of Medicine at Dartmouth College (October 2024–Present, supervisor: [James O'Malley](https://geiselmed.dartmouth.edu/tdi/profile/james-omalley-phd/))<br>   
-  Research Assistant, Medical University of South Carolina (August 2019–August 2024)<br>
-  Summer Research Intern, Vanderbilt University Medical Center (May 2018-July 2018 )<br>
+  Postdoctoral Research Fellow, Geisel School of Medicine at Dartmouth College (October 2024–Present, supervisor: [James O'Malley](https://geiselmed.dartmouth.edu/tdi/profile/james-omalley-phd/))   
+  Research Assistant, Medical University of South Carolina (August 2019–August 2024)
+  Summer Research Intern, Vanderbilt University Medical Center (May 2018-July 2018 )
 
 - **Education:**
   

@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 My name is Chun-Che Wen (pronounced: Jin-za Wen). I am currently a **Postdoctoral Fellow** in Biostatistics at [The Dartmouth Institute for Health Policy & Clinical Practice](https://geiselmed.dartmouth.edu/tdi/) within the [Geisel School of Medicine at Dartmouth](https://geiselmed.dartmouth.edu/).

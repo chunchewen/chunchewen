@@ -7,23 +7,25 @@ author_profile: true
 
 ## Statistical Methodology
 
-### Published Papers and Proceedings
+### Peer-reviewed Publications
 
 1. **Wen, C.**, Paul, R., Hunt, K., O'Malley, A. J., Li, H., Hill, E., Malek, A., and Neelon, B. (2026). "A Bayesian zero-inflated spatiotemporally varying coefficients model for overdispersed binomial data." *Journal of the Royal Statistical Society Series A: Statistics in Society*, 189(3).
 
 2. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian beta-binomial piecewise growth mixture model for timeline followback data." *Statistical Methods in Medical Research*, 33(10), 1859–1876.
 
-3. Sun, N., Young, T. C., Wen, M., **Wen, C.**, and Chin, C. (2024). "Stratified hypothesis testing of mean duration of response in randomized clinical trials." *Proceedings of the 2024 Joint Statistical Meetings*, Portland, Oregon. Zenodo.
+3. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2023). "A Bayesian zero-inflated beta-binomial model for longitudinal data with group-specific changepoints." *Statistics in Medicine*, 43(1), 125–140.
 
-4. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2023). "A Bayesian zero-inflated beta-binomial model for longitudinal data with group-specific changepoints." *Statistics in Medicine*, 43(1), 125–140.
+4. Neelon, B., **Wen, C.**, and Benjamin-Neelon, S. E. (2022). "A multivariate spatiotemporal model for tracking COVID-19 incidence and death rates in socially vulnerable populations." *Journal of Applied Statistics*, 50(8), 1812–1835.
 
-5. Neelon, B., **Wen, C.**, and Benjamin-Neelon, S. E. (2022). "A multivariate spatiotemporal model for tracking COVID-19 incidence and death rates in socially vulnerable populations." *Journal of Applied Statistics*, 50(8), 1812–1835.
+5. Wang, W., **Wen, C.**, Hung, T., Zhong, J., and Wen, M. (2022). "Single-stage sampling procedure for heteroscedasticity analysis of means." *Brazilian Journal of Probability and Statistics*, 36(4), 704–724.
 
-6. Wang, W., **Wen, C.**, Hung, T., Zhong, J., and Wen, M. (2022). "Single-stage sampling procedure for heteroscedasticity analysis of means." *Brazilian Journal of Probability and Statistics*, 36(4), 704–724.
+6. Wang, W., **Wen, C.**, Das, R., and Wen, M. (2022). "A modified single-stage sampling procedure for heteroscedasticity analysis of means with unbalanced design." *Communications in Statistics – Simulation and Computation*, 53(5), 2277–2290.
 
-7. Wang, W., **Wen, C.**, Das, R., and Wen, M. (2022). "A modified single-stage sampling procedure for heteroscedasticity analysis of means with unbalanced design." *Communications in Statistics – Simulation and Computation*, 53(5), 2277–2290.
+7. Wen, M., **Wen, C.**, and Wang, W. (2022). "Single-stage sampling procedure for heteroscedasticity in multiple comparisons with a control." *Communications in Statistics – Simulation and Computation*, 53(4), 1719–1728.
 
-8. Wen, M., **Wen, C.**, and Wang, W. (2022). "Single-stage sampling procedure for heteroscedasticity in multiple comparisons with a control." *Communications in Statistics – Simulation and Computation*, 53(4), 1719–1728.
+### Proceeding
+
+1. Sun, N., Young, T. C., Wen, M., **Wen, C.**, and Chin, C. (2024). "Stratified hypothesis testing of mean duration of response in randomized clinical trials." *Proceedings of the 2024 Joint Statistical Meetings*, Portland, Oregon. Zenodo.
 
 ### Under Review
 
@@ -37,7 +39,7 @@ author_profile: true
 
 ## Collaborative Research
 
-### Published Papers
+### Peer-reviewed Publications
 
 1. Hunt, K., **Wen, C.**, Chundru, K., Mateus, J., Florez, H., Korte, J., Neelon, B., Wilson, D., Pearce, J., Alkis, M., Simpson, S., Alsbrook, E., Spate, V., and Malek, A. (2025). "Adverse pregnancy and infant outcomes by COVID-19 infection status before and during pregnancy." *Pregnancy*, 1, e70051.
 
@@ -65,4 +67,4 @@ author_profile: true
 
 2. Tomko, R., Dahne, J., Donato, S., **Wen, C.**, Hashemi, D., McClure, E., Gray, K., and Wolf, B. "Toward personalized medicine for smoking cessation: Predicting individuals' responses to smoking-cessation pharmacotherapy using multivariable and machine-learning models." Under review at *Psychological Medicine*.
 
-3. Chen, Y., Huang, H., Tsao, C., Lee, A., Hsu, H., Chen, L., **Wen, C.**, Tai, S., and Lee, E. "Melatonin supports early synaptic preservation or remodeling after cerebral ischemia: In vitro evidence for MT1/MT2-associated BDNF regulation." Under revision.
+3. Chen, Y., Huang, H., Tsao, C., Lee, A., Hsu, H., Chen, L., **Wen, C.**, Tai, S., and Lee, E. "Melatonin supports early synaptic preservation or remodeling after cerebral ischemia: In vitro evidence for MT1/MT2-associated BDNF regulation." Under the first revision.

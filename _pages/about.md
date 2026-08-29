@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chun-Che Wen, PhD | Biostatistician"
+title: "Chun-Che Wen, PhD"
 author_profile: true
 redirect_from: 
   - /about/

@@ -14,13 +14,13 @@ My name is Chun-Che Wen (pronounced: Jin-za Wen). I am currently a postdoctoral 
 
 - **Professional appointments:**
   
-  Postdoctoral Research Fellow, Geisel School of Medicine at Dartmouth College (October 2024–Present, supervisor: [James O'Malley](https://geiselmed.dartmouth.edu/tdi/profile/james-omalley-phd/))   
+  Postdoctoral Research Fellow, Geisel School of Medicine at Dartmouth College (October 2024–Present, supervisor: [Dr. James O'Malley](https://geiselmed.dartmouth.edu/tdi/profile/james-omalley-phd/))   
   Research Assistant, Medical University of South Carolina (August 2019–August 2024)<br>
   Summer Research Intern, Vanderbilt University Medical Center (May 2018-July 2018 )
 
 - **Education:**
   
-  Ph.D. in Biostatistics, [Medical University of South Carolina](https://medicine.musc.edu/departments/public-health-sciences) (supervisor: [Brian Neelon](https://education.musc.edu/MUSCApps/facultydirectory/Neelon-Brian))<br>
+  Ph.D. in Biostatistics, [Medical University of South Carolina](https://medicine.musc.edu/departments/public-health-sciences) (supervisor: [Dr. Brian Neelon](https://education.musc.edu/MUSCApps/facultydirectory/Neelon-Brian))<br>
   M.S. in Statistics, [Florida State University](https://stat.fsu.edu/)<br>
   B.S. in Applied Mathematics, [National Chung Hsing University](https://www.amath.nchu.edu.tw/en/index.php)<br>
 

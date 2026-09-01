@@ -10,7 +10,7 @@ author_profile: true
 ### Peer-reviewed Publications
 
 
-1. **Wen, C.**, Paul, R., Hunt, K., O'Malley, A. J., Li, H., Hill, E., Malek, A., and Neelon, B. (2026). "A Bayesian zero-inflated spatially varying coefficients model for overdispersed binomial data." *Journal of the Royal Statistical Society Series A: Statistics in Society*, 189(3). <\br>
+1. **Wen, C.**, Paul, R., Hunt, K., O'Malley, A. J., Li, H., Hill, E., Malek, A., and Neelon, B. (2026). "A Bayesian zero-inflated spatially varying coefficients model for overdispersed binomial data." *Journal of the Royal Statistical Society Series A: Statistics in Society*, 189(3). <br>
    [[Paper](https://doi.org/10.1093/jrsssa/qnaf056)]
 
 4. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian beta-binomial piecewise growth mixture model for longitudinal overdispersed binomial data." *Statistical Methods in Medical Research*, 33(10), 1859–1876. [[Paper](https://doi.org/10.1177/09622802241279109)]

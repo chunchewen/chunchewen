@@ -10,19 +10,20 @@ author_profile: true
 ### Peer-reviewed Publications
 
 
-1. **Wen, C.**, Paul, R., Hunt, K., O'Malley, A. J., Li, H., Hill, E., Malek, A., and Neelon, B. (2026). "A Bayesian zero-inflated spatially varying coefficients model for overdispersed binomial data." *Journal of the Royal Statistical Society Series A: Statistics in Society*, 189(3). [[Paper](https://doi.org/10.1093/jrsssa/qnaf056)]
+1. **Wen, C.**, Paul, R., Hunt, K., O'Malley, A. J., Li, H., Hill, E., Malek, A., and Neelon, B. (2026). "A Bayesian zero-inflated spatially varying coefficients model for overdispersed binomial data." *Journal of the Royal Statistical Society Series A: Statistics in Society*, 189(3).
+   [[Paper](https://doi.org/10.1093/jrsssa/qnaf056)]
 
-2. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian beta-binomial piecewise growth mixture model for longitudinal overdispersed binomial data." *Statistical Methods in Medical Research*, 33(10), 1859–1876. [[Paper](https://doi.org/10.1177/09622802241279109)]
+4. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian beta-binomial piecewise growth mixture model for longitudinal overdispersed binomial data." *Statistical Methods in Medical Research*, 33(10), 1859–1876. [[Paper](https://doi.org/10.1177/09622802241279109)]
 
-3. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian zero-inflated beta-binomial model for longitudinal data with group-specific changepoints." *Statistics in Medicine*, 43(1), 125–140. [[Paper](https://doi.org/10.1002/sim.9945)]
+5. **Wen, C.**, Baker, N., Paul, R., Hill, E., Hunt, K., Li, H., Gray, K., and Neelon, B. (2024). "A Bayesian zero-inflated beta-binomial model for longitudinal data with group-specific changepoints." *Statistics in Medicine*, 43(1), 125–140. [[Paper](https://doi.org/10.1002/sim.9945)]
 
-4. Neelon, B., **Wen, C.**, and Benjamin-Neelon, S. E. (2023). "A multivariate spatiotemporal model for tracking COVID-19 incidence and death rates in socially vulnerable populations." *Journal of Applied Statistics*, 50(8), 1812–1835. [[Paper](https://doi.org/10.1080/02664763.2022.2046713)]
+6. Neelon, B., **Wen, C.**, and Benjamin-Neelon, S. E. (2023). "A multivariate spatiotemporal model for tracking COVID-19 incidence and death rates in socially vulnerable populations." *Journal of Applied Statistics*, 50(8), 1812–1835. [[Paper](https://doi.org/10.1080/02664763.2022.2046713)]
 
-5. Wang, W., **Wen, C.**, Hung, T., Zhong, J., and Wen, M. (2022). "Single-stage sampling procedure for heteroscedasticity analysis of means." *Brazilian Journal of Probability and Statistics*, 36(4), 704–724. [[Paper](https://doi.org/10.1214/22-BJPS550)]
+7. Wang, W., **Wen, C.**, Hung, T., Zhong, J., and Wen, M. (2022). "Single-stage sampling procedure for heteroscedasticity analysis of means." *Brazilian Journal of Probability and Statistics*, 36(4), 704–724. [[Paper](https://doi.org/10.1214/22-BJPS550)]
 
-6. Wang, W., **Wen, C.**, Das, R., and Wen, M. (2024). "A modified single-stage sampling procedure for heteroscedasticity analysis of means with unbalanced design." *Communications in Statistics – Simulation and Computation*, 53(5), 2277–2290. [[Paper](https://doi.org/10.1080/03610918.2022.2074456)]
+8. Wang, W., **Wen, C.**, Das, R., and Wen, M. (2024). "A modified single-stage sampling procedure for heteroscedasticity analysis of means with unbalanced design." *Communications in Statistics – Simulation and Computation*, 53(5), 2277–2290. [[Paper](https://doi.org/10.1080/03610918.2022.2074456)]
 
-7. Wen, M., **Wen, C.**, and Wang, W. (2024). "Single-stage sampling procedure for heteroscedasticity in multiple comparisons with a control." *Communications in Statistics – Simulation and Computation*, 53(4), 1719–1728. [[Paper](https://doi.org/10.1080/03610918.2022.2053863)]
+9. Wen, M., **Wen, C.**, and Wang, W. (2024). "Single-stage sampling procedure for heteroscedasticity in multiple comparisons with a control." *Communications in Statistics – Simulation and Computation*, 53(4), 1719–1728. [[Paper](https://doi.org/10.1080/03610918.2022.2053863)]
 
 ### Proceedings
 

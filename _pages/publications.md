@@ -35,7 +35,8 @@ author_profile: true
 
 ### Proceeding
 
-1. Sun, N., Young, T. C., Wen, M., **Wen, C.**, and Chin, C. (2024). "Stratified hypothesis testing of mean duration of response in randomized clinical trials." *Proceedings of the 2024 Joint Statistical Meetings*, Portland, Oregon. Zenodo.
+1. Sun, N., Young, T. C., Wen, M., **Wen, C.**, and Chin, C. (2024). "Stratified hypothesis testing of mean duration of response in randomized clinical trials." *Proceedings of the 2024 Joint Statistical Meetings*, Portland, Oregon.<br>
+[[Paper](https://doi.org/10.5281/zenodo.13896753)]
 
 ### Under Review
 

@@ -52,25 +52,36 @@ author_profile: true
 
 ### Peer-reviewed Publications
 
-1. Hunt, K., **Wen, C.**, Chundru, K., Mateus, J., Florez, H., Korte, J., Neelon, B., Wilson, D., Pearce, J., Alkis, M., Simpson, S., Alsbrook, E., Spate, V., and Malek, A. (2025). "Adverse pregnancy and infant outcomes by COVID-19 infection status before and during pregnancy." *Pregnancy*, 1, e70051.
+### Collaborative Research
 
-2. Malek, A., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Simpson, S., Chundru, K., Korte, J., Florez, H., and Hunt, K. (2024). "Prevalence of hypertensive disorders of pregnancy and chronic hypertension increased throughout the COVID-19 pandemic in South Carolina (2015–2021)." *Women & Health*, 1–15.
+1. Hunt, K., **Wen, C.**, Chundru, K., Mateus, J., Florez, H., Korte, J., Neelon, B., Wilson, D., Pearce, J., Alkis, M., Simpson, S., Alsbrook, E., Spate, V., and Malek, A. (2025). "Adverse pregnancy and infant outcomes by COVID-19 infection status before and during pregnancy." *Pregnancy*, 1(4), e70051. <br>
+[[Paper](https://doi.org/10.1002/pmf2.70051)]
 
-3. Hunt, K., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Simpson, S., Chundru, K., Korte, J., Florez, H., and Malek, A. (2024). "Increasing prevalence of diagnosed gestational diabetes in South Carolina: 2015–2021." *Journal of Women's Health*, 33(11), 1518–1527.
+3. Malek, A., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Simpson, S., Chundru, K., Korte, J., Florez, H., and Hunt, K. (2025). "Prevalence of hypertensive disorders of pregnancy and chronic hypertension increased throughout the COVID-19 pandemic in South Carolina (2015–2021)." *Women & Health*, 65(2), 182–196.<br>
+[[Paper](https://doi.org/10.1080/03630242.2025.2457641)]
 
-4. Simpson, S., Malek, A., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Chundru, K., Korte, J., Florez, H., and Hunt, K. (2024). "Trends in gestational weight gain and pre-pregnancy obesity in South Carolina, 2015 through 2021." *Preventing Chronic Disease*, 21, 240137.
+4. Hunt, K., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Chundru, K., Simpson, S., Korte, J., Florez, H., and Malek, A. (2024). "Increasing prevalence of diagnosed gestational diabetes in South Carolina: 2015–2021." *Journal of Women's Health*, 33(11), 1518–1527.<br>
+[[Paper](https://doi.org/10.1089/jwh.2023.1042)]
 
-5. Hung, H.-Y., **Wen, C.**, Su, P.-F., Man, S., and Chang, Y.-J. (2024). "Implementation of shared decision-making about rooming-in: A before-and-after audit of breastfeeding in Taiwan." *International Breastfeeding Journal*, 19(1), 40.
+5. Simpson, S., Malek, A., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Chundru, K., Korte, J., Florez, H., Alkis, M., Finneran, M., and Hunt, K. (2024). "Trends in gestational weight gain and prepregnancy obesity in South Carolina, 2015–2021." *Preventing Chronic Disease*, 21, 240137.<br>
+[[Paper](https://doi.org/10.5888/pcd21.240137)]
 
-6. Chundru, K., Korte, J., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Simpson, S., and Hunt, K. (2024). "Increasing preterm delivery and small-for-gestational-age trends in South Carolina during the COVID-19 pandemic." *International Journal of Environmental Research and Public Health*, 21(4), 465.
+6. Hung, H.-Y., **Wen, C.**, Su, P.-F., Man, S., and Chang, Y.-J. (2024). "Implementation of shared decision-making about rooming-in: A before and after audit of breastfeeding in Taiwan." *International Breastfeeding Journal*, 19, 40.<br>
+[[Paper](https://doi.org/10.1186/s13006-024-00649-6)]
 
-7. Killeen, T., **Wen, C.**, Neelon, B., and Baker, N. (2023). "Predictors of treatment completion among women receiving integrated treatment for comorbid posttraumatic stress and substance use disorders." *Substance Use & Misuse*, 58(4), 500–511.
+7. Chundru, K., Korte, J., **Wen, C.**, Neelon, B., Wilson, D., Mateus, J., Pearce, J., Alkis, M., Finneran, M., Simpson, S., Florez, H., Hunt, K., and Malek, A. (2024). "Increasing preterm delivery and small for gestational age trends in South Carolina during the COVID-19 pandemic." *International Journal of Environmental Research and Public Health*, 21(4), 465.<br>
+[[Paper](https://doi.org/10.3390/ijerph21040465)]
 
-8. McGhee, H., Gehle, D., Shope, C., **Wen, C.**, Marston, A., Discolo, C., and Pecha, P. (2022). "Feeding performance and outcomes in infants with Robin sequence undergoing mandibular distraction osteogenesis." *The Cleft Palate-Craniofacial Journal*, 61(2), 295–301.
+8. Killeen, T., **Wen, C.**, Neelon, B., and Baker, N. (2023). "Predictors of treatment completion among women receiving integrated treatment for comorbid posttraumatic stress and substance use disorders." *Substance Use & Misuse*, 58(4), 500–511.<br> [[Paper](https://doi.org/10.1080/10826084.2023.2170183)]
 
-9. Yan, F., Levy, D. A., **Wen, C.**, Melvin, C., Ford, M. E., Nietert, P. J., and Pecha, P. P. (2020). "Rural barriers to surgical care for children with sleep-disordered breathing." *Otolaryngology–Head and Neck Surgery*, 166(6), 1127–1133.
+9. McGhee, H., Gehle, D., Shope, C., **Wen, C.**, Marston, A., Discolo, C., and Pecha, P. P. (2024). "Feeding performance and outcomes in infants with Robin sequence undergoing mandibular distraction osteogenesis." *The Cleft Palate-Craniofacial Journal*, 61(2), 295–301.<br>
+[[Paper](https://doi.org/10.1177/10556656221127542)]
 
-10. Zhou, A., Wang, D., McKee, S., Ye, F., **Wen, C.**, Wallace, D. E., Ancell, K. K., Conry, R. M., and Johnson, D. B. (2019). "Correlates of response and outcomes with talimogene laherparepvec." *Journal of Surgical Oncology*, 120(3), 558–564.
+10. Yan, F., Levy, D. A., **Wen, C.**, Melvin, C., Ford, M. E., Nietert, P. J., and Pecha, P. P. (2022). "Rural barriers to surgical care for children with sleep-disordered breathing." *Otolaryngology–Head and Neck Surgery*, 166(6), 1127–1133.<br>
+[[Paper](https://doi.org/10.1177/0194599821993383)]
+
+11. Zhou, A., Wang, D., McKee, S., Ye, F., **Wen, C.**, Wallace, D. E., Ancell, K. K., Conry, R. M., and Johnson, D. B. (2019). "Correlates of response and outcomes with talimogene laherparepvec." *Journal of Surgical Oncology*, 120(3), 558–564.<br>
+[[Paper](https://doi.org/10.1002/jso.25601)]
 
 ### Under Review
 
